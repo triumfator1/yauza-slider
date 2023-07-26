@@ -1,0 +1,8 @@
+@font-face {
+  font-family: LeksaSansPro;
+  font-style: normal;
+  font-weight: 400;
+  src: local('LeksaSansPro'),
+  url("../fonts/LeksaSansPro.woff2") format("woff2"),
+  url("../fonts/LeksaSansPro.woff") format("woff");
+}
